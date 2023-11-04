@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>495569785342-6aaio6i1lsvbrpmulqsfhns91j2t2kn3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.495569785342-6aaio6i1lsvbrpmulqsfhns91j2t2kn3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBZl6zMoWXo_dh4xoPOH_DIh7ts6UtTAsU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>495569785342</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.meetup.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>meetup-8f347</string>
+	<key>STORAGE_BUCKET</key>
+	<string>meetup-8f347.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:495569785342:ios:6589ed626985d38ff430af</string>
+</dict>
+</plist>
